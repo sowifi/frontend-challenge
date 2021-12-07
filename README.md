@@ -16,6 +16,7 @@ Using the following api: https://thedogapi.com/ create an application that shows
 - The user can somehow see all the pictures he has favorited.
 - The user can filter on more than just the dog breed.
 - The application is hosted somewhere online and we can easily access it (preferably with a password). 
+- Features that you thought of yourselve to show of your cool coding skills.
 
 ## Tips
 - You can use any JS library to help with async requests / styling / state management etc.
