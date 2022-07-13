@@ -3,7 +3,7 @@ The goal of this exercise is to get an understanding of your code skills.
 
 ## Challenge 
 For this assignment, we want a simple application for dog lovers. 
-Using the following api: https://thedogapi.com/ create an application that shows a list or a table of dog pictures.
+Using the following api: https://thedogapi.com/ create an application that shows a list or a table of dog pictures. The documentation for this api can be found here: https://docs.thedogapi.com/
 
 ## The requirements are as followed:
 - The page is run using React.
